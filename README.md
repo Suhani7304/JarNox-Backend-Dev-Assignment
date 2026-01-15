@@ -16,23 +16,6 @@ This project is built using **FastAPI**, a modern Python web framework for build
 
 ---
 
-## 📁 Project Structure
-
-app/
-│── main.py
-├── routes/
-│ └── stocks.py
-├── services/
-│ └── metrics_service.py
-│ └── stock_services.py
-└── utils/
-└── cleaner.py
-
-requirement.txt
-test_fetch.py
-
----
-
 ## 🛠️ Requirements
 
 Make sure you have Python installed (3.10+ recommended).
